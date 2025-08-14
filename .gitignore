@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Poetry venv (если внутри проекта)
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
